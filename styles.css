@@ -9,7 +9,7 @@
     --color-background:#f5f8f6;
     --color-border:#cbd8d1;
     --color-danger:#a52a2a;
-    --shadow-card:0 0.5rem 1.5rem rgb(23 33 27 / 10%);
+    --shadow-card: 0 0.5rem 1.5rem rgb(23 33 27 / 10%);
     --radius-small:0.5rem;
     --radius-medium:0.9rem;
     --radius-large:1.4rem;
@@ -121,7 +121,7 @@ a:hover{
 .nav-list{
     display:flex;
     flex-wrap:wrap;
-    gap:0.5rem, 1rem;
+    gap:0.5rem 1rem;
     list-style:none;
     margin:0;
     padding:0;
